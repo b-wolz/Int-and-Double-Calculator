@@ -1,0 +1,7 @@
+D:\Software\Github Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Software\Github Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Software\Github Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Software\Github Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Software\Github Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Software\Github Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Software\Github Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
